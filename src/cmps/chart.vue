@@ -3,7 +3,7 @@
     <BubbleChart v-if="testData" class="bubble-chart" :chartData="testData" />
     <div class="chart-info">
       <h4>Company size</h4>
-      <img src="../assets/company-icon.PNG" alt="" />
+      <img src="../assets/company-img.png" alt="" />
     </div>
   </section>
 </template>

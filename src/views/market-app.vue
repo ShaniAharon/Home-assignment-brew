@@ -10,7 +10,7 @@
         </li>
         <li>
           <a class="a-link plus-black"
-            ><span><img src="../assets/plus-circle-icon.PNG" alt="" /></span
+            ><span><img src="../assets/plus-circle.png" alt="" /></span
           ></a>
         </li>
       </ul>
