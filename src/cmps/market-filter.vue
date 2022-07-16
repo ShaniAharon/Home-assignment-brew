@@ -9,7 +9,7 @@
       <button class="filter-btn">filter button</button>
     </div>
     <div class="search flex align-center g-1">
-      <img class="file-img" src="../assets/‏export-file-icon.png" alt="" />
+      <img class="file-img" src="../assets/export-file-img.png" alt="" />
       <input
         type="text"
         class="input-search"
